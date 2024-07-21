@@ -1,5 +1,5 @@
-title:My Wishlist
-description:yooo
+title:Skeles Wishlist
+description:A list of rolls I personally enjoy, heavy PvE bias
 
 // Senuna SI6 ()
 dimwishlist:item=5159537&perks=1645158859,2610012052
