@@ -3,3 +3,6 @@ description:A list of rolls I personally enjoy, heavy PvE bias
 
 //Aberrant Action
 dimwishlist:item=2198166292&perks=1478423395,1380253176,2010801679,563069569#notes: Explosive build. Blast it all away. Main focus is on blast radius
+
+//Aurvandil FR6
+dimwishlist:item=963710795&perks=1483536627,1523832109,2978966579#notes: freeze ray. Any barrel should be fine
