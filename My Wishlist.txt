@@ -6,3 +6,4 @@ dimwishlist:item=2198166292&perks=1478423395,1380253176,2010801679,563069569#not
 
 //Trash Test
 dimwishlist:perks=-2319119708
+dimwishlist:item=-2126178511
