@@ -2,5 +2,4 @@ title:Skeles Wishlist
 description:A list of rolls I personally enjoy, heavy PvE bias
 
 //Aberrant Action
-//notes: Explosive build. Blast it all away. Main focus is on blast radius
-dimwishlist:item=2198166292&perks=1478423395,1380253176,2010801679,563069569
+dimwishlist:item=2198166292&perks=1478423395,1380253176,2010801679,563069569#notes: Explosive build. Blast it all away. Main focus is on blast radius
