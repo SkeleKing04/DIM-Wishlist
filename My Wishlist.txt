@@ -15,3 +15,6 @@ dimwishlist:item=3851176026&perks=776531651,2048641572
 
 //Under-over
 dimwishlist:item=-69420&perks=1870851715
+
+//Servant Leader
+dimwishlist:item=1107446438&perks=3250034553,3230963543,1168162263,1015611457
