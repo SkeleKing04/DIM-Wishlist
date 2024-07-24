@@ -14,8 +14,12 @@ dimwishlist:item=-69420&perks=3436462433,3592538738#notes:Ability builder... tbh
 dimwishlist:item=-69420&perks=1583705720,4049631843#notes:Hit three seperate targets.
 //Void            Any         Brace     Destab
 dimwishlist:item=-69420&perks=776531651,2048641572#notes:Secert technique, void
-//Debuff perk     Any         LChange    Destab     Incan      VShot      CClip      Slice
-dimwishlist:item=-69420&perks=1119449540,2048641572,4293542123,2173046394,2978966579,923806249#notes:Any perks that would work with Loose Change
+//Debuff perk     Any         LChange
+dimwishlist:item=-69420&perks=1119449540,2048641572#notes:Any perks that would work with Loose Change - Mode Purple
+dimwishlist:item=-69420&perks=1119449540,4293542123#notes:Any perks that would work with Loose Change - Mode Orange
+dimwishlist:item=-69420&perks=1119449540,2173046394#notes:Any perks that would work with Loose Change - Mode Blue
+dimwishlist:item=-69420&perks=1119449540,2978966579#notes:Any perks that would work with Loose Change - Mode Dark
+dimwishlist:item=-69420&perks=1119449540,923806249#notes:Any perks that would work with Loose Change - Mode Green
 
 //Aberrant Action
 dimwishlist:item=2198166292&perks=1478423395,1380253176,2010801679,563069569#notes: Explosive build. Blast it all away. Main focus is on blast radius.
