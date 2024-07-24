@@ -16,13 +16,12 @@ dimwishlist:item=3851176026&perks=776531651,2048641572
 //Bad perks
 //Under-over
 dimwishlist:item=-69420&perks=-1870851715
-//Controlled Burst
-dimwishlist:item=-69420&perks=-2594592626
-//Kickstart
-dimwishlist:item=-69420&perks=-1754714824
 
 //Servant Leader
 dimwishlist:item=1107446438&perks=3250034553,3230963543,1168162263,1015611457
 
 //Funnelweb
 dimwishlist:item=3341893443&perks=4090651448,2420895100,1820235745,11612903
+
+//Timeworn Wayfarer
+dimwishlist:item=1058098236&perks=4090651448,3142289711,1354429876,555281244
