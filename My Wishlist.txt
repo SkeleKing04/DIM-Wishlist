@@ -1,58 +1,105 @@
 title:Skeles Wishlist
 description:A list of rolls I personally enjoy, heavy PvE bias
 
-//General
-//Nades           Any         Demo       Junkie 
+//-| General Weapon Rolls |-----------------------------------------------------------------------------------------------------------------------------------------------------\\
+
+//Nades                       Demo       Junkie 
 dimwishlist:item=-69420&perks=3523296417,11612903#notes:Listen to Shaxx
-//Melee           Any         Grave      Buckler
+
+//Melee                       Grave      Buckler
 dimwishlist:item=-69420&perks=1631667848,4082225868#notes:Melee oriented - works like Demo but split across 2 perk slots
-//Hunter          Any         Strat     KWind
+
+//Hunter                      Strat     KWind
 dimwishlist:item=-69420&perks=880644845,2450788523#notes:Great Hunter combo
-//Ability         Any         Surplus    Wellspring
+
+//Ability                     Surplus    Wellspring
 dimwishlist:item=-69420&perks=3436462433,3592538738#notes:Ability builder... tbh I put these to together cuz they have similar affects.
-//TriBeam         Any         StatsAll   AllforOne
+
+//TriBeam                     StatsAll   AllforOne
 dimwishlist:item=-69420&perks=1583705720,4049631843#notes:Hit three seperate targets.
-//Void            Any         Brace     Destab
+
+//Void                        Brace     Destab
 dimwishlist:item=-69420&perks=776531651,2048641572#notes:Secert technique, void
-//Debuff perk     Any         LChange
+
+//Debuff perk                 LChange
 dimwishlist:item=-69420&perks=1119449540,2048641572#notes:Any perks that would work with Loose Change - Mode Purple
 dimwishlist:item=-69420&perks=1119449540,4293542123#notes:Any perks that would work with Loose Change - Mode Orange
 dimwishlist:item=-69420&perks=1119449540,2173046394#notes:Any perks that would work with Loose Change - Mode Blue
 dimwishlist:item=-69420&perks=1119449540,2978966579#notes:Any perks that would work with Loose Change - Mode Dark
 dimwishlist:item=-69420&perks=1119449540,923806249#notes:Any perks that would work with Loose Change - Mode Green
 
-//Aberrant Action
+//Cowboy                      Hipfire    Offhand
+dimwishlist:item=-69420&perks=1866048759,2416023159#notes:Cowboy time.
+
+//Tremors                     3-Tap      Tremors
+dimwishlist:item=-69420&perks=3400784728,3891536761#notes:Good combo for a boss or chanp.
+
+//DPS Feeders                 Feeding    Despa
+dimwishlist:item=-69420&perks=2779035018,3047969693#notes:Kills speed up rate of fire, thus you deal more damage.
+                                         MK-Clip
+dimwishlist:item=-69420&perks=2779035018,2458213969#notes:Reloading after a couple kills boost damage.
+                                         Rampage
+dimwishlist:item=-69420&perks=2779035018,3425386926#notes:More damage overall.
+                                         Junkie
+dimwishlist:item=-69420&perks=2779035018,11612903#notes:Grenade focus.
+
+//Strand Hunter               Slice     Strat
+dimwishlist:item=-69420&perks=923806249,880644845#notes:Perfect for Strand Hunters
+
+//AirAce                      A-Trigger  A-Assult
+dimwishlist:item=-69420&perks=1421772400,3722653512#notes:I wish I was a bird.
+
+//Fuck reloading                  Subsist    Rampage
+dimwishlist:item=-69420&perks=1820235745,3425386926#notes:Just keep getting kills.
+
+//Get shot                    2-Pain     iStorm
+dimwishlist:item=-69420&perks=3938834702,699525795#notes:Rage Mechanic
+
+//-| Specific Weapon Rolls |-----------------------------------------------------------------------------------------------------------------------------------------------------\\
+
+//Aberrant Action                 VolLaunch  High-EO    AmbiAss    Reverb
 dimwishlist:item=2198166292&perks=1478423395,1380253176,2010801679,563069569#notes: Explosive build. Blast it all away. Main focus is on blast radius.
 
-//Aurvandil FR6
+//Aurvandil FR6                  Ionized    Recon      CClip
 dimwishlist:item=963710795&perks=1483536627,1523832109,2978966579#notes: freeze ray. Any barrel should be fine.
 
-//Lost Signal
+//Lost Signal                     HdLnch    Implode    Feeding    Demo       Reverb
 dimwishlist:item=1197771438&perks=981914802,3492396210,2779035018,3523296417,563069569#notes:Explosives. Either for ability nades or shots from this.
 
-//Elsie's Rifle
-dimwishlist:item=3851176026&perks=2779035018,1015611457,3047969693#notes:Aggressive build.
-
-//Servant Leader
+//Servant Leader                  4xCharm    Subsist    KClip
 dimwishlist:item=1107446438&perks=1354429876,1820235745,1015611457#notes:Focus on getting kills for lots of damage. FTtC is better for Orange/Yellow bars.
+                                  R-Hit     Mk-Clip
 dimwishlist:item=1107446438&perks=247725512,2458213969#notes: Precision increase damage. Look for high range perks.
 
-//Funnelweb
+//Funnelweb                       KWind      Subsist    Junkie
 dimwishlist:item=3341893443&perks=2450788523,1820235745,11612903#notes:Good build, ramps up damage nicely. Switch Sub for KWind on Hunter, look for handling perks.
 
-//Timeworn Wayfarer
+//Timeworn Wayfarer               Full Bore Accurized  2Load    PInstrum
 dimwishlist:item=1058098236&perks=202670084,3142289711,25606670,555281244#notes:Hit headshots, range is recomended.
+                                  KAway      HClip      Incan
 dimwishlist:item=1058098236&perks=3619207468,3017780555,4293542123#notes:Solar build. 1st collumn doesn't have anything that combos crazy, but HClip and KAway are fine, just choose what you like.
 
-
-//Patron of Lost Causes
-dimwishlist:item=2249996761&perks=3400784728,3891536761#notes:Good combo for a boss or chanp. Personally not a fan of scouts for DPS but this is a good combo.
+//Patron of Lost Causes           R-Hit     ExPay
 dimwishlist:item=2249996761&perks=247725512,3038247973#notes:Good for clearing out a bunch of enemies.
 
-//Code Duello
+//Code Duello                     HdLnch    Impact     Prep       Cluster
 dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,1275731761#notes:Great Gally synergy. Point it a the problem and left click. MW: Reload - can switch impact for alloy.
 
-//The Hero's Burden
-dimwishlist:item=2488587246&perks=2779035018,1015611457#notes:Prolly the best PvE roll you can get out of this. Repulser brace maybe, but only really if you're running this on a void build
+//Krait                           Fluted     H-Cali     Subsist    Crystal
+dimwishlist:item=2852052802&perks=1840239774,1561002382,1820235745,124408337#notes:Works nicely into a Stasis build.
+                                                        O-flow
+dimwishlist:item=2852052802&perks=1840239774,1561002382,3643424744,124408337#notes:Works nicely into a Stasis build.
 
-//The Title
+//Riptide                         Arrow     Enhanced   Holster    C-clip
+dimwishlist:item=2715240478&perks=839105230,2680121939,3300816228,2978966579#notes:Good for stasis.
+
+//Bold Endings                   Small      Flared     Crystal   Dragon-F
+dimwishlist:item=496728945&perks=1482024992,3230963543,124408337,2848615171#notes:IDK if this works, but is cool reguardless
+
+//The Call                        VolLnch    High-EO    Beacon     Junkie
+dimwishlist:item=3947966653&perks=1478423395,1380253176,2859149211,11612903#notes:Explosive powerhouse, good for groups
+                                  Subsist    Hatch
+dimwishlist:item=3947966653&perks=1820235745,831391274#notes:Sounds good for Strand.
+
+//Yarovit MG4                     Chamber    Rico       Rewind     Surround
+dimwishlist:item=3959549446&perks=3661387068,1885400500,3418782618,3708227201#notes:Close quarter combat weapon.
