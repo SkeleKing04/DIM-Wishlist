@@ -3,52 +3,52 @@ description:A list of rolls I personally enjoy, heavy PvE bias
 
 //General
 //Nades           Any         Demo       Junkie 
-dimwishlist:item=-69420&perks=3523296417,11612903&#notes:Listen to Shaxx
+dimwishlist:item=-69420&perks=3523296417,11612903#notes:Listen to Shaxx
 //Melee           Any         Grave      Buckler
-dimwishlist:item=-69420&perks=1631667848,4082225868&#notes:Melee oriented - works like Demo but split across 2 perk slots
+dimwishlist:item=-69420&perks=1631667848,4082225868#notes:Melee oriented - works like Demo but split across 2 perk slots
 //Hunter          Any         Strat     KWind
-dimwishlist:item=-69420&perks=880644845,2450788523&#notes:Great Hunter combo
+dimwishlist:item=-69420&perks=880644845,2450788523#notes:Great Hunter combo
 //Ability         Any         Surplus    Wellspring
-dimwishlist:item=-69420&perks=3436462433,3592538738&#notes:Ability builder... tbh I put these to together cuz they have similar affects.
+dimwishlist:item=-69420&perks=3436462433,3592538738#notes:Ability builder... tbh I put these to together cuz they have similar affects.
 //TriBeam         Any         StatsAll   AllforOne
-dimwishlist:item=-69420&perks=1583705720,4049631843&#notes:Hit three seperate targets.
+dimwishlist:item=-69420&perks=1583705720,4049631843#notes:Hit three seperate targets.
 //Void            Any         Brace     Destab
-dimwishlist:item=-69420&perks=776531651,2048641572&#notes:Secert technique, void
+dimwishlist:item=-69420&perks=776531651,2048641572#notes:Secert technique, void
 //Debuff perk     Any         LChange    Destab     Incan      VShot      CClip      Slice
-dimwishlist:item=-69420&perks=1119449540,2048641572,4293542123,2173046394,2978966579,923806249&#notes:Any perks that would work with Loose Change
+dimwishlist:item=-69420&perks=1119449540,2048641572,4293542123,2173046394,2978966579,923806249#notes:Any perks that would work with Loose Change
 
 //Aberrant Action
-dimwishlist:item=2198166292&perks=1478423395,1380253176,2010801679,563069569&#notes: Explosive build. Blast it all away. Main focus is on blast radius.
+dimwishlist:item=2198166292&perks=1478423395,1380253176,2010801679,563069569#notes: Explosive build. Blast it all away. Main focus is on blast radius.
 
 //Aurvandil FR6
-dimwishlist:item=963710795&perks=1483536627,1523832109,2978966579&#notes: freeze ray. Any barrel should be fine.
+dimwishlist:item=963710795&perks=1483536627,1523832109,2978966579#notes: freeze ray. Any barrel should be fine.
 
 //Lost Signal
-dimwishlist:item=1197771438&perks=981914802,3492396210,2779035018,3523296417,563069569&#notes:Explosives. Either for ability nades or shots from this.
+dimwishlist:item=1197771438&perks=981914802,3492396210,2779035018,3523296417,563069569#notes:Explosives. Either for ability nades or shots from this.
 
 //Elsie's Rifle
-dimwishlist:item=3851176026&perks=2779035018,1015611457,3047969693&#notes:Aggressive build.
+dimwishlist:item=3851176026&perks=2779035018,1015611457,3047969693#notes:Aggressive build.
 
 //Servant Leader
-dimwishlist:item=1107446438&perks=1354429876,1820235745,1015611457&#notes:Focus on getting kills for lots of damage. FTtC is better for Orange/Yellow bars.
-dimwishlist:item=1107446438&perks=247725512,2458213969&#notes: Precision increase damage. Look for high range perks.
+dimwishlist:item=1107446438&perks=1354429876,1820235745,1015611457#notes:Focus on getting kills for lots of damage. FTtC is better for Orange/Yellow bars.
+dimwishlist:item=1107446438&perks=247725512,2458213969#notes: Precision increase damage. Look for high range perks.
 
 //Funnelweb
-dimwishlist:item=3341893443&perks=2450788523,1820235745,11612903&#notes:Good build, ramps up damage nicely. Switch Sub for KWind on Hunter, look for handling perks.
+dimwishlist:item=3341893443&perks=2450788523,1820235745,11612903#notes:Good build, ramps up damage nicely. Switch Sub for KWind on Hunter, look for handling perks.
 
 //Timeworn Wayfarer
-dimwishlist:item=1058098236&perks=202670084,3142289711,25606670,555281244&#notes:Hit headshots, range is recomended.
-dimwishlist:item=1058098236&perks=3619207468,3017780555,4293542123&#notes:Solar build. 1st collumn doesn't have anything that combos crazy, but HClip and KAway are fine, just choose what you like.
+dimwishlist:item=1058098236&perks=202670084,3142289711,25606670,555281244#notes:Hit headshots, range is recomended.
+dimwishlist:item=1058098236&perks=3619207468,3017780555,4293542123#notes:Solar build. 1st collumn doesn't have anything that combos crazy, but HClip and KAway are fine, just choose what you like.
 
 
 //Patron of Lost Causes
-dimwishlist:item=2249996761&perks=3400784728,3891536761&#notes:Good combo for a boss or chanp. Personally not a fan of scouts for DPS but this is a good combo.
-dimwishlist:item=2249996761&perks=247725512,3038247973&#notes:Good for clearing out a bunch of enemies.
+dimwishlist:item=2249996761&perks=3400784728,3891536761#notes:Good combo for a boss or chanp. Personally not a fan of scouts for DPS but this is a good combo.
+dimwishlist:item=2249996761&perks=247725512,3038247973#notes:Good for clearing out a bunch of enemies.
 
 //Code Duello
-dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,1275731761&#notes:Great Gally synergy. Point it a the problem and left click. MW: Reload - can switch impact for alloy.
+dimwishlist:item=2496242052&perks=981914802,3796465595,2869569095,1275731761#notes:Great Gally synergy. Point it a the problem and left click. MW: Reload - can switch impact for alloy.
 
 //The Hero's Burden
-dimwishlist:item=2488587246&perks=2779035018,1015611457&#notes:Prolly the best PvE roll you can get out of this. Repulser brace maybe, but only really if you're running this on a void build
+dimwishlist:item=2488587246&perks=2779035018,1015611457#notes:Prolly the best PvE roll you can get out of this. Repulser brace maybe, but only really if you're running this on a void build
 
 //The Title
