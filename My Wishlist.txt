@@ -32,7 +32,9 @@ dimwishlist:item=-69420&perks=1119449540,923806249#notes:Any perks that would wo
 dimwishlist:item=-69420&perks=1866048759,2416023159#notes:Cowboy time.
 
 //Tremors                     3-Tap      Tremors
-dimwishlist:item=-69420&perks=3400784728,3891536761#notes:Good combo for a boss or chanp.
+dimwishlist:item=-69420&perks=3400784728,3891536761#notes:Good combo for a boss or champ.
+                              Enlight
+dimwishlist:item=-69420&perks=3828510309,3891536761#notes:Good combo for a boss or champ.
 
 //DPS Feeders                 Feeding    Despa
 dimwishlist:item=-69420&perks=2779035018,3047969693#notes:Kills speed up rate of fire, thus you deal more damage.
@@ -49,11 +51,16 @@ dimwishlist:item=-69420&perks=923806249,880644845#notes:Perfect for Strand Hunte
 //AirAce                      A-Trigger  A-Assult
 dimwishlist:item=-69420&perks=1421772400,3722653512#notes:I wish I was a bird.
 
-//Fuck reloading                  Subsist    Rampage
+//Fuck reloading              Subsist    Rampage
 dimwishlist:item=-69420&perks=1820235745,3425386926#notes:Just keep getting kills.
+                                         Slaught
+dimwishlist:item=-69420&perks=1820235745,95528736#notes:Ad clear god
 
 //Get shot                    2-Pain     iStorm
 dimwishlist:item=-69420&perks=3938834702,699525795#notes:Rage Mechanic
+
+//Sword Combo                 Strikes    Whirl
+dimwishlist:item=-69420&perks=1749209109,3913600130#notes:Good for any sword.
 
 //-| Specific Weapon Rolls |-----------------------------------------------------------------------------------------------------------------------------------------------------\\
 
@@ -103,3 +110,6 @@ dimwishlist:item=3947966653&perks=1820235745,831391274#notes:Sounds good for Str
 
 //Yarovit MG4                     Chamber    Rico       Rewind     Surround
 dimwishlist:item=3959549446&perks=3661387068,1885400500,3418782618,3708227201#notes:Close quarter combat weapon.
+
+//1000 Yard Stare                 Flute      Append     Heater     Dragon
+dimwishlist:item=4164201232&perks=1840239774,1087426260,1570042021,2848615171#notes:Not a great pick for PvE, but this is a good roll.
