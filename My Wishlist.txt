@@ -48,6 +48,9 @@ dimwishlist:item=-69420&perks=2779035018,11612903#notes:Grenade focus.
 //Strand Hunter               Slice     Strat
 dimwishlist:item=-69420&perks=923806249,880644845#notes:Perfect for Strand Hunters
 
+//Stand Time                  Slice     Hatch
+dimwishlist:item=-69420&perks=923806249,831391274
+
 //AirAce                      A-Trigger  A-Assult
 dimwishlist:item=-69420&perks=1421772400,3722653512#notes:I wish I was a bird.
 
